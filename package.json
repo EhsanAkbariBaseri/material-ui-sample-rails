@@ -1,0 +1,16 @@
+{
+  "name": "something",
+  "devDependencies": {
+    "browserify": "~> 6.3",
+    "reactify": "^0.17.1"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {
+    "browserify-incremental": "^3.1.1",
+    "material-ui": "^0.5.0",
+    "react": "^0.12.2"
+  }
+}
